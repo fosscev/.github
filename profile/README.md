@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://fosscev.vercel.app/logo.png" width="120" alt="FOSS CEV Logo" />
+  <img src="https://foss.cev.ac.in/logo.png" width="120" alt="FOSS CEV Logo" />
   <h1>FOSS Club CE Vadakara</h1>
   <p>
     <strong>Build • Ship • Innovate • Collaborate</strong>
   </p>
 
-  <a href="https://fosscev.vercel.app">
+  <a href="https://foss.cev.ac.in">
     <img src="https://img.shields.io/badge/Website-foss.cev.ac.in-black?style=for-the-badge&logo=vercel" alt="Website" />
   </a>
   <a href="https://www.linkedin.com/company/fosscev">
