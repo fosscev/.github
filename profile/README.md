@@ -6,7 +6,7 @@
   </p>
 
   <a href="https://fosscev.vercel.app">
-    <img src="https://img.shields.io/badge/Website-fosscev.vercel.app-black?style=for-the-badge&logo=vercel" alt="Website" />
+    <img src="https://img.shields.io/badge/Website-foss.cev.ac.in-black?style=for-the-badge&logo=vercel" alt="Website" />
   </a>
   <a href="https://www.linkedin.com/company/fosscev">
     <img src="https://img.shields.io/badge/LinkedIn-FOSS_CEV-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
